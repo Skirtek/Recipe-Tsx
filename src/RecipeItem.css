@@ -1,0 +1,11 @@
+.recipe-item-wrapper {
+  display: flex;
+  flex-direction: column;
+  flex-grow: 1;
+  width: 25%;
+  align-items: center;
+}
+
+.recipe-item-wrapper > img {
+  max-width: 100px;
+}
